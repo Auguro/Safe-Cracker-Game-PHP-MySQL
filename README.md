@@ -31,7 +31,4 @@ Web-based password guessing game built with PHP and MySQL for the Web Developmen
 - Player ranking system
 
 ## ⚠️ Security Note
-This is an academic project from 2018. The authentication system uses basic security practices and should not be used in production without implementing proper password hashing, SQL injection prevention, and modern security standards.
-
-## 🎓 Academic Context
-Developed as a web development project demonstrating full-stack development with PHP and MySQL database integration.
+This is an academic project from 2019. The authentication system uses basic security practices and should not be used in production without implementing proper password hashing, SQL injection prevention, and modern security standards.
