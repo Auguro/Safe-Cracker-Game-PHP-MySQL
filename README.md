@@ -1,6 +1,6 @@
 # Safe Cracker - Web Game
 
-Web-based password guessing game built with PHP and MySQL. Players attempt to crack a safe's password within 10 attempts, earning points based on how quickly they succeed. Features user authentication and score tracking.
+Web-based password guessing game built with PHP and MySQL for the Web Development course at IFRS (Instituto Federal do Rio Grande do Sul). Players attempt to crack a safe's password within 10 attempts, earning points based on how quickly they succeed. Features user authentication and score tracking. Created in 2019.
 
 ## 🎮 Game Mechanics
 - 10 attempts to guess the correct password
